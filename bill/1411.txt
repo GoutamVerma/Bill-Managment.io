@@ -1,0 +1,21 @@
+		 Welcome Webcode 
+
+Bill Number :PY_VAR21
+Customer Name :tanfd
+Phone Number :222536
+-----------------------------------
+ Products		Qty		Price
+-----------------------------------
+Bath Soap		3		120
+Cream		3		90
+Gel		3		66
+Oil		3		132
+Talcum		3		150
+Balm		3		30
+String		3		120
+Fizzy		3		90
+Beer		3		66
+Coke		3		150
+------------------------------------------------------
+Total Bill				1034.28
+-------------------------------------------------------

@@ -1,0 +1,25 @@
+		 Welcome Webcode 
+
+Bill Number :PY_VAR21
+Customer Name :goutam verma
+Phone Number :98264855
+------------------------------------------------------
+ Products		Qty		Price
+------------------------------------------------------
+Bath Soap		1		40
+Cream		2		60
+Gel		2		44
+Oil		2		88
+Talcum		2		1100
+Balm		22		20
+pulses		1		36
+Maaze		1		102
+Wheat		2		80
+String		2		80
+Beer		22		484
+Cafe		2		88
+Coke		2		100
+Appy		2		20
+------------------------------------------------------
+Total Bill				2391.02
+-------------------------------------------------------

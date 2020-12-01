@@ -1,0 +1,17 @@
+		 Welcome Webcode 
+
+Bill Number :PY_VAR21
+Customer Name :mohit verma
+Phone Number :852369741
+-----------------------------------
+ Products		Qty		Price
+-----------------------------------
+Bath Soap		2		80
+Gel		2		44
+Oil		2		88
+Talcum		2		100
+Balm		2		20
+String		2		80
+------------------------------------------------------
+Total Bill				420.24
+-------------------------------------------------------

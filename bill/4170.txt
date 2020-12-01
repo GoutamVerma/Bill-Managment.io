@@ -1,0 +1,19 @@
+		 Welcome Webcode 
+
+Bill Number :PY_VAR21
+Customer Name :preksha 
+Phone Number :877073222
+-----------------------------------
+ Products		Qty		Price
+-----------------------------------
+Bath Soap		2		80
+Cream		2		60
+Gel		2		44
+Oil		2		88
+Talcum		2		100
+Balm		2		20
+String		2		80
+Fizzy		2		60
+------------------------------------------------------
+Total Bill				542.64
+-------------------------------------------------------
